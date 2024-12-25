@@ -1,0 +1,8 @@
+".\Objects\delay.obj",
+".\Objects\lcd_driver.obj",
+".\Objects\adc_driver_POT.obj",
+".\Objects\adc_driver_LDR.obj",
+".\Objects\main.obj",
+".\Objects\pwm_driver.obj" 
+TO ".\Objects\Automated_Safty_Syestem_For_Automobile" 
+PRINT(".\Listings\Automated_Safty_Syestem_For_Automobile.m51") RAMSIZE(256) 
